@@ -160,25 +160,25 @@ const SHOP_DATA = [
             {
                 id: 23,
                 name: 'Blue Tanktop',
-                imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+                imageUrl: 'https://images.unsplash.com/photo-1525845859779-54d477ff291f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
                 price: 25
             },
             {
                 id: 24,
                 name: 'Floral Blouse',
-                imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+                imageUrl: 'https://images.unsplash.com/photo-1542148787-b568e3a53b62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
                 price: 20
             },
             {
                 id: 25,
                 name: 'Floral Dress',
-                imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+                imageUrl: 'https://images.unsplash.com/photo-1494588024300-e9df7ff98d78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
                 price: 80
             },
             {
                 id: 26,
                 name: 'Red Dots Dress',
-                imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+                imageUrl: 'https://images.unsplash.com/photo-1520310809185-5cc119cf8b08?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
                 price: 80
             },
             {

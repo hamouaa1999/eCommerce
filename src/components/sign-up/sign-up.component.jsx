@@ -54,7 +54,7 @@ class SignUp extends React.Component {
                         required
                     />
                     <FormInput
-                        name='Email'
+                        name='email'
                         type='email'
                         value={email}
                         onChange={event => {
